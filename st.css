@@ -1,0 +1,27 @@
+/* Basic CSS styling */
+body {
+    background-color: #f0f0f0; /* Light gray background */
+    font-family: Arial, sans-serif; /* Clean font */
+    margin: 20px;
+}
+
+h1 {
+    color: #2c3e50; /* Dark blue-gray */
+    text-align: center;
+}
+
+p {
+    color: #555; /* Medium gray */
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+a {
+    color: #3498db; /* Bright blue */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
